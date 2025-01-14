@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="java_code:jar">
+    <output-path>$PROJECT_DIR$/../Upload/Part 3 - Facebook/Datafiles</output-path>
+    <root id="archive" name="java_code.jar">
+      <element id="module-output" name="java_code" />
+      <element id="extracted-dir" path="$USER_HOME$/Workspace/mongo/mongo-java-driver-3.10.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
